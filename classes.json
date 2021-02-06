@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "title": "HTML5",
+        "description": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before f",
+        "instructor": "atts",
+        "lessons": [{
+            "lesson_body": "n publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before f",
+            "lesson_title": "html6",
+            "lesson_number": 1,
+            "_id": {
+                "$oid": "6016a40fede86ef8390fd907"
+            }
+        }]
+    }
+]
